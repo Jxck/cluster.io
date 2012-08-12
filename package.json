@@ -1,0 +1,19 @@
+{
+  "name": "cluster.io",
+  "version": "0.0.0",
+  "description": "clustering socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jxck/cluster.io"
+  },
+  "keywords": [
+    "socket.io",
+    "cluster"
+  ],
+  "author": "Jxck",
+  "license": "BSD"
+}
